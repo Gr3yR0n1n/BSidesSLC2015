@@ -1,5 +1,5 @@
 # BSidesSLC 2015 Electronic Badge
-theTransistor, DC801, and 801 Labs brings you another fun conference badge.
+[BSidesSLC](https://www.bsidesslc.org/), [theTransistor](http://thetransistor.com/), [DC801](https://www.dc801.org/), and [801 Labs](https://www.801labs.org/) brings you another fun conference badge.
 
 **NOTE: The displays used in these badges are no longer being produced. They come from left over Nokia5110 units produced in China MANY years ago. Some of them have trouble working correctly. If you have this problem, we suggest gently pressing on the bottom of the LCDs metal frame. This sometimes helps reseat the internal display connector.**
 
