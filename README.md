@@ -1,4 +1,4 @@
-# BSidesSLC2015
+# BSidesSLC 2015 Electronic Badge
 theTransistor, DC801, and 801 Labs brings you another fun conference badge.
 
 **NOTE: The displays used in these badges are no longer being produced. They come from left over Nokia5110 units produced in China MANY years ago. Some of them have trouble working correctly. If you have this problem, we suggest gently pressing on the bottom of the LCDs metal frame. This sometimes helps reseat the internal display connector.**
@@ -51,6 +51,6 @@ Reprogramming can be done either over USB via the Arduino IDE, or over the seria
 
 ##Questions and Comments
 Questions and comments can be directed twards the following forms of communication:
-\#dc801 on freenode
-d3c4f [at] thetransistor [dot] com
+- \#dc801 on freenode
+- d3c4f [at] thetransistor [dot] com
 
