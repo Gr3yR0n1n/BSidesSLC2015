@@ -26,7 +26,7 @@ theTransistor, DC801, and 801 Labs brings you another fun conference badge.
   
   
 ##Reprogramming
-Reprogramming can be done either over USB via the Arduino IDE, or over the serial "HACK" ISP breakout. To use the Arduino programming over USB, you will need to copy Atmega32u4 hardware files into the "hardware" folder in your Arduino installation. See the SparkFun link above for more information.
+Reprogramming can be done either over USB via the Arduino IDE, or over the serial "HACK" ISP breakout. To use the Arduino programming over USB, you will need to copy 8mhz Atmega32u4 hardware files into the "hardware" folder in your Arduino installation. See the SparkFun link above for more information.
 
 
 ##Credits:
